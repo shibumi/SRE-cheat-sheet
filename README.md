@@ -34,7 +34,7 @@ Error budget is generall the budget you can spend on pushing features. Let's say
 
 ### Four Golden Signals
 A group of basic questions about your service regarding monitoring.<sup id="a5">[5](#f5)</sup>
-![pyramid of four golden signals](https://github.com/shibumi/SRE-vocabulary/raw/master/figures/four_golden_signals.png)
+<img src="https://github.com/shibumi/SRE-vocabulary/raw/master/figures/four_golden_signals.png" width="352" height="307" />
 
 #### Saturation
 This definition is up to you. It can be the capacity of the service like the CPU utilization. Ask yourself at what point your service could fall over and try to measure the metric for that point.
