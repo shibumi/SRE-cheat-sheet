@@ -1,5 +1,5 @@
-# SRE-vocabulary
-A vocabulary collection for SREs (mostly influenced by Google SREs)
+# SRE-Cheatsheet
+A cheatsheet for SREs (mostly influenced by Google SREs)
 
 ## Dictionary
 ### Site Reliability Engineering
@@ -101,3 +101,9 @@ SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[
 <b id="f3">3</b> https://en.wikipedia.org/wiki/Mean_time_to_recovery [↩](#a3)  
 <b id="f4">4</b> https://en.wikipedia.org/wiki/Mean_time_between_failures [↩](#a4)  
 <b id="f5">5</b> Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs [↩](#a5)  
+
+## Additional Links
+A more technical cheatsheet: https://github.com/michael-kehoe/awesome-sre-cheatsheets  
+DevOps: "Where do I start? Cheatsheet" by Microsoft: https://blogs.technet.microsoft.com/juliens/2016/02/14/devops-where-do-i-start-cheat-sheet/  
+"So you want to be an SRE" by hackernoon.com: https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c  
+The Google SRE Landing page: https://google.com/sre
