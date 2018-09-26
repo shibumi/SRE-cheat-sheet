@@ -94,7 +94,7 @@ SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[
 
 ### Capability Maturity Model (CMM)
 
-### Post Mortem
+### Postmortem
 
 ## Sources
 <b id="f1">1</b> Google SRE Interview, Niall Murphy and Ben Treynor, "What is 'Site Reliability Engineering', 2018-09-26, https://landing.google.com/sre/interview/ben-treynor.html [↩](#a1)  
