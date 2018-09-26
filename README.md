@@ -93,6 +93,7 @@ SLO is a target value or range of values for a service level that is measured by
 SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[5](#f5)</sup>
 
 ### Capability Maturity Model (CMM)
+CMM is a development model created after a study of data collected from organizations that contracted with the U.S. Department of Defense, who funded the research. The term "maturity" relates to the degree of formality and optimization of processes, from ad hoc practices, to formally defined steps, to managed result metrics, to active optimization of the processes.<sup id="a7">[7](#f7)</sup>
 
 ### Postmortem
 
@@ -103,6 +104,7 @@ SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[
 <b id="f4">4</b> https://en.wikipedia.org/wiki/Mean_time_between_failures [↩](#a4)  
 <b id="f5">5</b> Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs [↩](#a5)  
 <b id="f6">6</b> "Postmortem Culture: Learning from Failure", John Lunney and Sue Lueder, 2018-09-26, https://landing.google.com/sre/book/chapters/postmortem-culture.html [↩](#a6)  
+<b id="f7">7</b> https://en.wikipedia.org/wiki/Capability_Maturity_Model [↩](#a7)  
 
 ## Additional Links
 A more technical cheatsheet: https://github.com/michael-kehoe/awesome-sre-cheatsheets  
