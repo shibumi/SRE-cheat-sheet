@@ -33,7 +33,7 @@ Error budget is generall the budget you can spend on pushing features. Let's say
 ### Dickerson's Hierarchy of Service Reliability
 
 ### Four Golden Signals
-A group of basic questions about your service regarding monitoring.<sup id="a5">[5](#f5)</sup>
+A group of basic questions about your service regarding monitoring.<sup id="a5">[5](#f5)</sup>  
 <img src="https://github.com/shibumi/SRE-vocabulary/raw/master/figures/four_golden_signals.png" width="352" height="307" />
 
 #### Saturation
