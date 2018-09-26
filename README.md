@@ -1,5 +1,5 @@
-# SRE-Cheatsheet
-A cheatsheet for SREs (mostly influenced by Google SREs)
+# SRE-cheat-sheet
+A cheatsheet for SREs (mostly influenced by Google SREs). It is meant as a landing page to quickly look up a certain keyword. If you want to go more into the details, I suggest you read the Google SRE book. It is for free: https://landing.google.com/sre/book/
 
 ## Dictionary
 ### Site Reliability Engineering
@@ -72,6 +72,7 @@ Failures will always happen. Get used to it. There is nothing you can do about i
 "Graceful degradation is the ability to tolerate failures without having complete collapse. For example, if a user's network is running slowly, the Hangout video system will reduce the video resolution and preserve the audio. For Gmail, a slow network might mean that big attachments won't load, but users can still read their email. All these are automated responses that give you high availability without a human having to do anything."<sup id="a1">[1](#f1)</sup>
 
 ### Wheel Of Misfortune
+The "Wheel Of Misfortune" is a role-game, where a previous postmortem is reenacted with a cast of engineers playing roles as laid out in the postmortem.<sup id="a6">[6](#f6)</sup>
 
 ### Mean Time To Recover (MTTR)
 MTTR is the average time that a device will take to recover from any failure.<sup id="a3">[3](#f3)</sup>
@@ -101,6 +102,7 @@ SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[
 <b id="f3">3</b> https://en.wikipedia.org/wiki/Mean_time_to_recovery [↩](#a3)  
 <b id="f4">4</b> https://en.wikipedia.org/wiki/Mean_time_between_failures [↩](#a4)  
 <b id="f5">5</b> Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs [↩](#a5)  
+<b id="f6">6</b> "Postmortem Culture: Learning from Failure", John Lunney and Sue Lueder, 2018-09-26, https://landing.google.com/sre/book/chapters/postmortem-culture.html [↩](#a6)  
 
 ## Additional Links
 A more technical cheatsheet: https://github.com/michael-kehoe/awesome-sre-cheatsheets  
