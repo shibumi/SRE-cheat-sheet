@@ -4,7 +4,7 @@ A vocabulary collection for SREs (mostly influenced by Google SREs)
 ## Dictionary
 ### Site Reliability Engineering
 "Fundamentally, it’s what happens when you ask a software engineer to
-design an operations function" -- Ben Treynor, VP of Engineering @ Google[1].
+design an operations function" -- Ben Treynor, VP of Engineering @ Google.<sup id="a1">[1](#f1)</sup>
 
 ### Uptime
 | Availability % | Downtime per year | Downtime per month | Downtime per Week |
@@ -62,7 +62,7 @@ Service Level Identicator. A SLI is a carefully defined quantitative measure of 
 Service Level Objective. A SLO is a target value or range of values for a service level that is measured by an SLI[3].
 
 ## Sources
-[1] Google SRE Interview, Niall Murphy and Ben Treynor, "What is 'Site Reliability Engineering', 2018-09-26, https://landing.google.com/sre/interview/ben-treynor.html
+<b id="f1">1</b> Google SRE Interview, Niall Murphy and Ben Treynor, "What is 'Site Reliability Engineering', 2018-09-26, https://landing.google.com/sre/interview/ben-treynor.html [↩](#a1)
 [2] https://interworks.com/blog/rclapp/2010/05/06/what-does-availabilityuptime-mean-real-world/
 [3] Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs
 [4] https://en.wikipedia.org/wiki/Mean_time_to_recovery
