@@ -21,7 +21,7 @@ design an operations function" -- Ben Treynor, VP of Engineering @ Google.<sup i
 | 99.999%        | 5.26 minutes      | 25.9 seconds       | 6.05 seconds      |
 | 99.9999%       | 31.5 seconds      | 2.59 seconds       | 0.605 seconds     |
 
-Downtime per month is calculated at 30 days[2].
+Downtime per month is calculated at 30 days.<sup id="a2">[2](#f2)></sup>
 
 ### Error Budget
 
@@ -44,26 +44,26 @@ Downtime per month is calculated at 30 days[2].
 #### Logs
 
 ### MTTR
-Mean Time To Recover. MTTR is the average time that a device will take to recover from any failure[4].
+Mean Time To Recover. MTTR is the average time that a device will take to recover from any failure.<sup id="a3">[3](#f3)</sup>
 
 ### MTBF
-Mean Time Between Failures. MTBF is the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system[5].
+Mean Time Between Failures. MTBF is the predicted elapsed time between inherent failures of a mechanical or electronic system, during normal system operation. MTBF can be calculated as the arithmetic mean (average) time between failures of a system. The term is used for repairable systems, while mean time to failure (MTTF) denotes the expected time to failure for a non-repairable system.<sup id="a4">[4](#f4)</sup>
 
 ### MTTF
-Mean Time To Failure. MTTF denotes the expected time to failure for a non-repairable system[5].
-
-### SLA
-Service Level Agreement. A SLA is a (legal) agreement with repercussions for failure to meet[3].
+Mean Time To Failure. MTTF denotes the expected time to failure for a non-repairable system.<sup id="a4">[4](#f4)</sup>
 
 ### SLI
-Service Level Identicator. A SLI is a carefully defined quantitative measure of some aspect of the level of service that is provided[3].
+Service Level Identicator. A SLI is a carefully defined quantitative measure of some aspect of the level of service that is provided.<sup id="a5">[5](#f5)</sup>
 
 ### SLO
-Service Level Objective. A SLO is a target value or range of values for a service level that is measured by an SLI[3].
+Service Level Objective. A SLO is a target value or range of values for a service level that is measured by an SLI.<sup id="a5">[5](#f5)</sup>
+
+### SLA
+Service Level Agreement. A SLA is a (legal) agreement with repercussions for failure to meet.<sup id="a5">[5](#f5)</sup>
 
 ## Sources
-<b id="f1">1</b> Google SRE Interview, Niall Murphy and Ben Treynor, "What is 'Site Reliability Engineering', 2018-09-26, https://landing.google.com/sre/interview/ben-treynor.html [↩](#a1)
-[2] https://interworks.com/blog/rclapp/2010/05/06/what-does-availabilityuptime-mean-real-world/
-[3] Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs
-[4] https://en.wikipedia.org/wiki/Mean_time_to_recovery
-[5] https://en.wikipedia.org/wiki/Mean_time_between_failures
+<b id="f1">1</b> Google SRE Interview, Niall Murphy and Ben Treynor, "What is 'Site Reliability Engineering', 2018-09-26, https://landing.google.com/sre/interview/ben-treynor.html [↩](#a1)  
+<b id="f2">2</b> https://interworks.com/blog/rclapp/2010/05/06/what-does-availabilityuptime-mean-real-world/ [↩](#a2)  
+<b id="f3">3</b> https://en.wikipedia.org/wiki/Mean_time_to_recovery [↩](#a3)  
+<b id="f4">4</b> https://en.wikipedia.org/wiki/Mean_time_between_failures [↩](#a4)  
+<b id="f5">5</b> Google Cloud Next 2018: Nori and Dan, "Best Practices from Google SRE", 2018-07-26, https://www.youtube.com/watch?v=XPtoEjqJexs [↩](#a5)  
