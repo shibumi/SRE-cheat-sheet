@@ -1,8 +1,8 @@
-# SRE-cheat-sheet
+# SRE-cheat-sheet       united states of america
 A cheatsheet for SREs (mostly influenced by Google SREs). It is meant as a landing page to quickly look up a certain keyword. If you want to go more into the details, I suggest you read the Google SRE book. It is for free: https://landing.google.com/sre/book/
 
 ## Dictionary
-### Site Reliability Engineering
+### Site Reliability Engineering vs DEV OPS
 "Fundamentally, it’s what happens when you ask a software engineer to
 design an operations function" -- Ben Treynor, VP of Engineering @ Google.<sup id="a1">[1](#f1)</sup>
 
